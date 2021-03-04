@@ -1,0 +1,10 @@
+Output: AutoCAD dwg/dxf File PCB
+Type  : AutoCAD PCB
+From  : PCB Document [balan_30.PcbDoc]
+   Generated File[BOM_Balancer_Rev_C.DWG]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:44:31 On 25.04.2018

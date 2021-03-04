@@ -1,0 +1,117 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+U4         LTV-816S              118.4mm       113.8mm       118.4mm       113.8mm       122.9mm      112.53mm  T         90.00 Optron         
+F1         RUEF250               110.5mm        58.9mm       110.5mm        58.9mm       110.5mm        61.4mm  T        270.00 PTC_Fuse       
+C19        C0603                 110.1mm        49.7mm       110.1mm        49.7mm     110.862mm        49.7mm  T        180.00 100nF          
+C18        C0603              132.9506mm    122.0501mm    132.9506mm      122.05mm    132.1886mm    122.0501mm  T        360.00 220pF          
+R23        R0603                  93.8mm          48mm        93.8mm          48mm        93.8mm      47.238mm  T         90.00 4k7            
+C1         C0603                  90.1mm       121.3mm        90.1mm       121.3mm        90.1mm     120.538mm  T         90.00 100nF          
+C2         C0603                 112.7mm       121.8mm       112.7mm       121.8mm     111.938mm       121.8mm  T          0.00 9 pf           
+C3         C0603               112.412mm       126.8mm     112.412mm       126.8mm     113.174mm       126.8mm  T        180.00 9 pf           
+C4         C0603                 109.3mm       122.5mm       109.3mm       122.5mm       109.3mm     121.738mm  T         90.00 100nF          
+C5         C0603                97.838mm       134.2mm      97.838mm       134.2mm      97.076mm       134.2mm  T          0.00 100nF          
+C6         C0603                  97.7mm       124.9mm        97.7mm       124.9mm      96.938mm       124.9mm  T        360.00 100nF          
+C7         C0603                 107.7mm       122.5mm       107.7mm       122.5mm       107.7mm     121.738mm  T         90.00 100nF          
+C8         C0603                 111.7mm      129.75mm       111.7mm      129.75mm       111.7mm     128.988mm  T         90.00 100nF          
+C9         C0603              136.9505mm      122.05mm    136.9506mm      122.05mm    137.7125mm      122.05mm  T        180.00 220pF          
+C13        C0603              132.9506mm       130.8mm    132.9506mm       130.8mm    133.7126mm       130.8mm  T        180.00 220nF          
+C10        C0603              124.9506mm       130.8mm    124.9506mm       130.8mm    125.7126mm       130.8mm  T        180.00 220nF          
+C11        C0603              120.9885mm       130.8mm    120.9885mm       130.8mm    121.7505mm       130.8mm  T        180.00 220nF          
+C12        C0603              128.9511mm       130.8mm    128.9511mm       130.8mm    129.7131mm       130.8mm  T        180.00 220nF          
+C14        C0603              136.9505mm       130.8mm    136.9506mm       130.8mm    137.7125mm       130.8mm  T        180.00 220nF          
+C15        C0603              124.9506mm      122.05mm    124.9506mm      122.05mm    124.1886mm      122.05mm  T        360.00 220pF          
+C16        C0603              120.9885mm      122.05mm    120.9885mm      122.05mm    120.2265mm      122.05mm  T        360.00 220pF          
+C17        C0603              128.9511mm      122.05mm    128.9511mm      122.05mm    128.1891mm      122.05mm  T        360.00 220pF          
+C21        C0603                   113mm        42.2mm         113mm        42.2mm         113mm      42.962mm  T        270.00 100nF          
+C23        C0603                128.45mm        41.9mm      128.45mm        41.9mm      128.45mm      41.138mm  T         90.00 100nF          
+C24        C0603                 108.5mm        74.1mm       108.5mm        74.1mm       108.5mm      73.338mm  T         90.00 22uF           
+D1         CHIP-LED0603          104.2mm    122.4905mm       104.2mm       122.5mm       104.2mm    123.2938mm  T        180.00 Red            
+D2         CHIP-LED0603         105.95mm    122.4905mm      105.95mm       122.5mm      105.95mm    123.2938mm  T        180.00 Green          
+D6         SOT323_N           133.0506mm      128.05mm    133.0506mm      128.05mm    133.7006mm         129mm  T        270.00 Diode_protection
+D3         SOT323_N           125.0506mm      128.05mm    125.0506mm      128.05mm    125.7006mm         129mm  T        270.00 Diode_protection
+D4         SOT323_N           121.0885mm      128.05mm    121.0885mm      128.05mm    121.7385mm         129mm  T        270.00 Diode_protection
+D5         SOT323_N           129.0511mm      128.05mm    129.0511mm      128.05mm    129.7011mm         129mm  T        270.00 Diode_protection
+D7         SOT323_N           137.0505mm      128.05mm    137.0505mm      128.05mm    137.7005mm         129mm  T        270.00 Diode_protection
+D9         SOD123F                 109mm    109.2116mm         109mm       109.2mm         109mm    110.6732mm  T         90.00 Schotky        
+D8         SOD123F                95.6mm    109.3116mm        95.6mm       109.3mm        95.6mm    110.7732mm  T         90.00 Schotky        
+D12        SOD123F               135.5mm    109.0884mm       135.5mm       109.1mm       135.5mm    107.6268mm  T        270.00 Schotky        
+D11        SOD123F               121.1mm    109.2884mm       121.1mm       109.3mm       121.1mm    107.8268mm  T        270.00 Schotky        
+D14        SMB_BIDIR             107.8mm     44.0049mm       107.8mm          44mm       107.8mm        41.8mm  T         90.00 TVS_diode      
+D13        SMB_BIDIR          101.8951mm        59.2mm       101.9mm        59.2mm       104.1mm        59.2mm  T        180.00 TVS_diode      
+D16        SOD523                106.5mm        49.8mm       106.5mm        49.8mm       105.8mm        49.8mm  T        180.00 Zener          
+D17        CHIP-LED0603         130.95mm     45.3905mm      130.95mm        45.4mm      130.95mm     46.1938mm  T        180.00 Red            
+DA1        SOT223                123.2mm       45.15mm       120.9mm          42mm       120.9mm          42mm  T        360.00 NCP1117ST33    
+F2         R1206                 104.6mm        44.9mm       104.6mm        44.9mm       104.6mm       46.17mm  T        270.00 Resettable fuse
+L1         C0603                 117.2mm      125.75mm       117.2mm      125.75mm       117.2mm       124.9mm  T         90.00 10 uH          
+L3         C0603                 110.7mm        42.3mm       110.7mm        42.3mm       110.7mm       43.15mm  T        270.00 10 uH          
+Q1         KX-7                 112.55mm       124.4mm       113.7mm       123.5mm       113.7mm       125.3mm  T        180.00 16 Mhz         
+Q3         SOT23-3N             105.85mm       109.3mm      105.85mm       109.3mm       104.9mm    110.2501mm  T        360.00 MOSFET-N       
+Q2         SOT23-3N              92.65mm       109.3mm       92.65mm       109.3mm        91.7mm      110.25mm  T        360.00 MOSFET-N       
+Q5         SOT23-3N             132.75mm       109.3mm      132.75mm       109.3mm       131.8mm      110.25mm  T        360.00 MOSFET-N       
+Q4         SOT23-3N             118.25mm       109.3mm      118.25mm       109.3mm       117.3mm      110.25mm  T        360.00 MOSFET-N       
+Q6         SO-8_-_IRF_FET        104.4mm        53.4mm       104.4mm        53.4mm       106.8mm      54.035mm  T        180.00 P-Channel      
+Q7         SOT23-3N               97.6mm       119.5mm        97.6mm       119.5mm       98.55mm      120.45mm  T        270.00 MOSFET-N       
+R1         R0603                 104.2mm      119.25mm       104.2mm      119.25mm       104.2mm     120.012mm  T        270.00 510R           
+C20        SMD_D                 116.9mm      45.098mm       116.9mm      41.796mm       116.9mm      41.796mm  T         90.00 4.7 uF         
+R2         R0603                105.95mm     119.238mm      105.95mm     119.238mm      105.95mm         120mm  T        270.00 510R           
+R3         R0603                  86.6mm         114mm        86.6mm         114mm        86.6mm     113.238mm  T         90.00 10k            
+R25        R0603                 101.4mm    109.3127mm       101.4mm    109.3127mm       101.4mm    110.0747mm  T        270.00 4k7            
+R4         R0603                 117.2mm       129.5mm       117.2mm       129.5mm       117.2mm     130.262mm  T        270.00 110R           
+R13        R0603              132.9379mm    123.8281mm    132.9379mm    123.8281mm    132.1759mm    123.8281mm  T        360.00 4k99 0.1%      
+R14        R0603              132.9506mm      125.55mm    132.9506mm      125.55mm    133.7126mm      125.55mm  T        180.00 1k 0.1%        
+R5         R0603              136.9378mm    123.8281mm    136.9378mm    123.8281mm    137.6998mm    123.8281mm  T        180.00 4k99 0.1%      
+R6         R0603              136.9505mm      125.55mm    136.9506mm      125.55mm    137.7125mm      125.55mm  T        180.00 1k 0.1%        
+R7         R0603              124.9379mm    123.8281mm    124.9379mm    123.8281mm    124.1759mm    123.8281mm  T        360.00 4k99 0.1%      
+R8         R0603              124.9506mm      125.55mm    124.9506mm      125.55mm    125.7126mm      125.55mm  T        180.00 1k 0.1%        
+R9         R0603              120.9758mm    123.8281mm    120.9758mm    123.8281mm    120.2138mm    123.8281mm  T        360.00 4k99 0.1%      
+R10        R0603              120.9885mm      125.55mm    120.9885mm      125.55mm    121.7505mm      125.55mm  T        180.00 1k 0.1%        
+R11        R0603              128.9384mm    123.8281mm    128.9384mm     123.828mm    128.1764mm    123.8281mm  T        360.00 4k99 0.1%      
+R12        R0603              128.9511mm      125.55mm    128.9511mm      125.55mm    129.7131mm      125.55mm  T        180.00 1k 0.1%        
+R16        R0603                 103.2mm    109.3127mm       103.2mm    109.3127mm       103.2mm    110.0747mm  T        270.00 10k            
+R15        R0603                  89.9mm    109.3127mm        89.9mm    109.3127mm        89.9mm    110.0747mm  T        270.00 10k            
+R17        R0603                  97.7mm       109.3mm        97.7mm       109.3mm        97.7mm     108.538mm  T         90.00 2K             
+R18        R0603                   111mm       109.3mm         111mm       109.3mm         111mm     108.538mm  T         90.00 2K             
+R19        R0603                 123.1mm       109.3mm       123.1mm       109.3mm       123.1mm     108.538mm  T         90.00 2K             
+R20        R0603                 137.4mm       109.3mm       137.4mm       109.3mm       137.4mm     108.538mm  T         90.00 2K             
+R24        R0603                  88.1mm    109.3127mm        88.1mm    109.3127mm        88.1mm    110.0747mm  T        270.00 4k7            
+R27        R0603                 128.3mm    109.3127mm       128.3mm    109.3127mm       128.3mm    110.0747mm  T        270.00 4k7            
+R29        R0603                   130mm    109.3127mm         130mm    109.3127mm         130mm    110.0747mm  T        270.00 10k            
+R28        R0603                 115.5mm    109.3127mm       115.5mm    109.3127mm       115.5mm    110.0747mm  T        270.00 10k            
+R31        R0603                 103.5mm        49.8mm       103.5mm        49.8mm     104.262mm        49.8mm  T        180.00 4k7            
+R32        R0603                  97.7mm    122.4314mm        97.7mm    122.4314mm      98.462mm    122.4314mm  T        180.00 10k            
+R33        R0603                 108.5mm        70.7mm       108.5mm        70.7mm       108.5mm      71.462mm  T        270.00 30k            
+R34        R0603                130.95mm        41.9mm      130.95mm        41.9mm      130.95mm      42.662mm  T        270.00 510R           
+U6         LTV-816S               97.5mm        45.8mm        97.5mm        45.8mm       98.77mm        50.3mm  T        180.00 Optron         
+U1         MF03A_N               114.4mm       129.5mm       114.4mm       129.5mm      113.35mm      130.45mm  T        360.00 LM4040AIM3-3.0 
+U2         LTV-816S               93.2mm       113.8mm        93.2mm       113.8mm        97.7mm      112.53mm  T         90.00 Optron         
+U3         LTV-816S              106.5mm       113.8mm       106.5mm       113.8mm         111mm      112.53mm  T         90.00 Optron         
+U5         LTV-816S              132.9mm       113.8mm       132.9mm       113.8mm       137.4mm      112.53mm  T         90.00 Optron         
+X5         43045-020X          93.4576mm          56mm     85.1772mm          56mm      94.118mm          56mm  T        270.00 Micro_Fit      
+X1         Pin_Header_1x1_TH_Pitch_2.54mm       101.7mm         119mm       101.7mm         119mm       101.7mm         119mm  T        270.00                
+C22        SMD_A                128.45mm        46.9mm      128.45mm        46.9mm      128.45mm      45.625mm  T         90.00 10 uF          
+IC1        SOT23-6L            93.9104mm    129.3924mm        93.9mm       129.4mm        92.6mm      130.35mm  T        270.00 USBLC6-4       
+J1         USB_micro_B           87.77mm       127.6mm        89.1mm       127.6mm        89.1mm       128.9mm  T        360.00 USB-Micro-47346
+JP1        1X03                    113mm       138.4mm         113mm       138.4mm      115.54mm       138.4mm  T        180.00 DFU            
+SW1        PTS840-P            87.3072mm    118.7983mm        87.3mm       118.8mm     88.0366mm       120.6mm  T        270.00 PTS840 GKP SMTR LFS
+T1         SMD-15R                 130mm       138.2mm         130mm       138.2mm         130mm       138.2mm  T         90.00 TPP-SMD-15R    
+T2         SMD-15R                93.6mm       133.7mm        93.6mm       133.7mm        93.6mm       133.7mm  T         90.00 TPP-SMD-15R    
+T3         SMD-15R                90.5mm        50.1mm        90.5mm        50.1mm        90.5mm        50.1mm  T         90.00 TPP-SMD-15R    
+D15        SOT23              111.8088mm     46.2924mm       111.8mm        46.3mm       110.7mm       47.25mm  T        270.00 BAT54C         
+L2         C0603                 115.7mm      125.75mm       115.7mm      125.75mm       115.7mm       124.9mm  T         90.00 10 uH          
+D10        425                   101.7mm        44.4mm       101.7mm        44.4mm       101.7mm        46.1mm  T        270.00 5V1            
+R21        R0603                  97.4mm          54mm        97.4mm          54mm      96.638mm          54mm  T        360.00 470R           
+R22        R0603                  97.4mm        52.2mm        97.4mm        52.2mm      98.162mm        52.2mm  T        180.00 470R           
+R26        R0603                 113.8mm       109.3mm       113.8mm       109.3mm       113.8mm     110.062mm  T        270.00 4k7            
+R30        R0603                  93.8mm        43.8mm        93.8mm        43.8mm        93.8mm      44.562mm  T        270.00 4k7            
+IC2        LQFP48_N              104.2mm       129.8mm       104.2mm       129.8mm      108.25mm      127.05mm  T        180.00 STM32F072C8T6  
+JP2        1X03                  98.96mm       138.4mm       98.96mm       138.4mm       96.42mm       138.4mm  T        360.00 DFU            
+X2         Pin_Header_1x1_TH_Pitch_2.54mm      108.45mm         119mm      108.45mm         119mm      108.45mm         119mm  T          0.00                
+X4         Pin_Header_1x1_TH_Pitch_2.54mm       112.4mm         119mm       112.4mm         119mm       112.4mm         119mm  T          0.00                
+K1         Switch_RTE24024        93.5mm        91.4mm        93.5mm        91.4mm       97.25mm       104.1mm  T        270.00 Rele_RTE24012  
+K2         Switch_RTE24024       106.5mm        91.4mm       106.5mm        91.4mm      110.25mm       104.1mm  T        270.00 Rele_RTE24012  
+K3         Switch_RTE24024       119.5mm        91.4mm       119.5mm        91.4mm      123.25mm       104.1mm  T        270.00 Rele_RTE24012  
+K4         Switch_RTE24024       132.5mm        91.4mm       132.5mm        91.4mm      136.25mm       104.1mm  T        270.00 Rele_RTE24012  
+X3         Mini-Fit_0026013116        98.2mm        68.2mm        99.1mm        68.2mm        99.1mm          64mm  T        270.00 Mini-Fit 0026013116
+F3         RGEF600               110.8mm        70.3mm       110.8mm        70.3mm       110.2mm       67.75mm  T         90.00 PTC_Fuse       
+IC3        DCDC_1x1             125.86mm       62.84mm      125.86mm       62.84mm       128.4mm       52.68mm  T         90.00 DC/DC          
+
